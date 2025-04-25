@@ -16,11 +16,11 @@
 
 #### → Tech Stack & Tools:
 ⊶ **Languages:** Python • SQL • JavaScript(beginner) <br>
-⊶ **Data Manipulation & PreProcessing:** Pandas • NumPy 
-⊶ **ML:** scikit-learn • NumPy 
-⊶ **BI & Visualization:** Matplotlib • Seaborn • Plotly • Excel • PowerBi • Tableu
-⊶ **DB & Cloud** MySQL • MongoDB
-⊶ **Workflow & Version Control** Git • Jupyter • VS Code
+⊶ **Data Manipulation & PreProcessing:** Pandas • NumPy <br>
+⊶ **ML:** scikit-learn • NumPy <br>
+⊶ **BI & Visualization:** Matplotlib • Seaborn • Plotly • Excel • PowerBi • Tableu <br>
+⊶ **DB & Cloud** MySQL • MongoDB <br>
+⊶ **Workflow & Version Control** Git • Jupyter • VS Code <br>
 
 <!--
 **dumisanimukuchura/dumisanimukuchura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
