@@ -70,6 +70,9 @@
 
 ✣ more Projects [View Portifolio](https://github.com/dumisanimukuchura?tab=repositories)
 
+### → Contributions Graph
+![Contributions Graph](./graph.svg)
+
 --------------------------------------------------------------------------------------
 
 ### → Education:
@@ -81,11 +84,11 @@
 --------------------------------------------------------------------------------------
 
 ### → Current Focus and Hobbies:
-⟿ Mastering machine learning & AI for data science  
-⟿ Collaborating on analytics & data-science projects  
-⟿ Automating insights pipelines.
-⟿ Watching Data with its usage in F1 strategy and racing craft.
-⟿ Watching NBA with its usage of Data.
+⟿ Mastering machine learning & AI for data science.  <br>
+⟿ Collaborating on analytics & data-science projects.  <br>
+⟿ Automating insights pipelines. <br>
+⟿ Watching Data with its usage in F1 strategy and racing craft. <br>
+⟿ Watching NBA with its usage of Data. <br>
 
 --------------------------------------------------------------------------------------
 ### → Let's Collaborate: 
