@@ -71,7 +71,8 @@
 ✣ more Projects [View Portifolio](https://github.com/dumisanimukuchura?tab=repositories)
 
 ### → Contributions Graph
-![Contributions Graph](./graph.svg)
+[![Contributions Graph](https://jandee.vercel.app/dumisanimukuchura?scheme=dark)
+
 
 --------------------------------------------------------------------------------------
 
