@@ -3,8 +3,8 @@
 ## Hi there ツ 
 
 <p align="center">
-  <strong>Dumisani Maxwell Mukuchura • Data Analyst → Aspiring Data Scientist </strong><br>
-  Driven by curiosity • Unearthing insights • Building predictive models
+  <h3><strong>Dumisani Maxwell Mukuchura • Data Analyst → Aspiring Data Scientist</strong></h3>
+  <h4>Driven by curiosity • Unearthing insights • Building predictive models</h4>
 </p>
 
 ### → Have a View:
@@ -28,14 +28,14 @@
 --------------------------------------------------------------------------------------
 
 ### → Reach Out, Let us Connect:
-#### ↠ Personal
+#### → Personal
 ⊸ Email [dumisanimukuchura@gmail.com](mailto:dumisanimukuchura@gmail.com) <br>
 ⊸ Phone: +263 771 758 354 / +263 715 026 554 <br>
 ⊸ LinkedIn: https://www.linkedin.com/in/dumisani-maxwell-mukuchura-4859b7170/ <br> 
 ⊸ GitHub: https://github.com/dumisanimukuchura <br>
 ⊸ Portfolio: https://datascienceportfol.io/dumisanimukuchura <br>
 
-#### ↠ Company I represent as, byndForm:
+#### → Company I represent as, byndForm:
 ⊸ Email: [byndform@gmail.com](mailto:byndform@gmail.com) <br>
 ⊸ LinkedIn: https://www.linkedin.com/company/byndform/ <br>
 ⊸ X fka Twitter: https://x.com/byndform <br>
@@ -44,25 +44,25 @@
 --------------------------------------------------------------------------------------
 
 ### → Highlighted Projects:
-#### ↠ Delhi Housing Analysis Series (EDA → Regression Model Build)
+#### → Delhi Housing Analysis Series (EDA → Regression Model Build)
 • Tools: Python • Pandas • Scikit-learn  
 • Concepts: Data cleaning • EDA • Linear & Multiple Linear Regression  
 • Outcome: Models predicting rent from size, location, and amenities.
 ⊶ Project Repository: [View Project starting with Part 1]( https://github.com/dumisanimukuchura/Dehli-Indian-Housing-Analysis-Part-1-EDA-by-Dumisani-Mukuchura )
 
-#### ↠ Air Quality in Durban (MongoDB → Time-Series)
+#### → Air Quality in Durban (MongoDB → Time-Series)
 • Tools: MongoDB • PyMongo • Python  
 • Concepts: NoSQL ETL • Time-series Resampling • Regression forecasting  
 • Outcome: PM₂.₅ Prediction model • Interactive EDA
 ⊶ Project Repository: [View Project starting with Part 1](https://github.com/dumisanimukuchura/Air-Quality-in-Durban-Part-1-EDA-with-MongoDB)
 
-### ↠ Tech Layoffs Dataset (MySQL → EDA)
+### → Tech Layoffs Dataset (MySQL → EDA)
 • Tools: MySQL  
 • Concepts: Data cleaning • Basic to Advanced SQL (CTEs, CASE, JOINS, Subquery, Window functions, pivot) • Trend analysis  
 • Outcome Cleaned database • Layoff trends by industry & region
 ⊶ Project Repository: [View Project starting with Part 1]( https://github.com/dumisanimukuchura/MySQL-Tech-Layoffs-Dataset-Part-1-Cleaning-by-Dumisani-Mukuchura)
 
-### ↠ CycleSilicon Inc. Employee Dataset (Excel → Data Cleaning → Dashboard)
+### → CycleSilicon Inc. Employee Dataset (Excel → Data Cleaning → Dashboard)
 • Tools: Excel 2019, Excel 365
 • Concepts: Data preparation and cleaning • EDA • Pivot Tables • Charts • Dashboard
 • Outcome Cleaned dataset • perfomed EDA • Pivot Table creation • Dashboard creation
@@ -90,7 +90,7 @@
 --------------------------------------------------------------------------------------
 ### → Let's Collaborate: 
 ∷ Open to freelance & full-time roles in Data Analytics / Data Science  <br>
-∷ Reach out via email, phone or LinkedIn — I’m always up for a data challenge and learning opportunity! <br>
+∷ Reach out via email, phone or LinkedIn — I’m always up for a data challenge and/or learning opportunity! <br>
 
 
 
