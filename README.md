@@ -30,7 +30,7 @@
 ### → Reach Out, Let us Connect:
 #### → Personal
 ⊸ Email [dumisanimukuchura@gmail.com](mailto:dumisanimukuchura@gmail.com) <br>
-⊸ Phone: +263 771 758 354 / +263 715 026 554 <br>
+⊸ Phone: +263 771 758 354 / +263 715 026 554 [Chat on WhatsApp](https://wa.me/263715026554) <br>
 ⊸ LinkedIn: https://www.linkedin.com/in/dumisani-maxwell-mukuchura-4859b7170/ <br> 
 ⊸ GitHub: https://github.com/dumisanimukuchura <br>
 ⊸ Portfolio: https://datascienceportfol.io/dumisanimukuchura <br>
