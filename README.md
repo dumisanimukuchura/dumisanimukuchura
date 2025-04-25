@@ -23,7 +23,7 @@
 ⊶ **ML:** Scikit-learn • Statsmodels <br>
 ⊶ **ML Models:** AutoRegressive • LinearRegression • Ridge <br>
 ⊶ **DB & Cloud** MySQL • MongoDB • PyMongo <br>
-⊶ **Workflow & Version Control** Git • Jupyter • VS Code <br>
+⊶ **Workflow & Version Control** Git • Jupyter • VS Code • Google Workspace <br>
 
 --------------------------------------------------------------------------------------
 
@@ -45,27 +45,27 @@
 
 ### → Highlighted Projects:
 #### → Delhi Housing Analysis Series (EDA → Regression Model Build)
-• Tools: Python • Pandas • Scikit-learn  
-• Concepts: Data cleaning • EDA • Linear & Multiple Linear Regression  
-• Outcome: Models predicting rent from size, location, and amenities.
-⊶ Project Repository: [View Project starting with Part 1]( https://github.com/dumisanimukuchura/Dehli-Indian-Housing-Analysis-Part-1-EDA-by-Dumisani-Mukuchura )
+• Tools: Python • Pandas • Scikit-learn  <br>
+• Concepts: Data cleaning • EDA • Linear & Multiple Linear Regression <br> 
+• Outcome: Models predicting rent from size, location, and amenities. <br>
+⊶ Project Repository: [View Project starting with Part 1]( https://github.com/dumisanimukuchura/Dehli-Indian-Housing-Analysis-Part-1-EDA-by-Dumisani-Mukuchura ) 
 
 #### → Air Quality in Durban (MongoDB → Time-Series)
-• Tools: MongoDB • PyMongo • Python  
-• Concepts: NoSQL ETL • Time-series Resampling • Regression forecasting  
-• Outcome: PM₂.₅ Prediction model • Interactive EDA
+• Tools: MongoDB • PyMongo • Python  <br>
+• Concepts: NoSQL ETL • Time-series Resampling • Regression forecasting  <br>
+• Outcome: PM₂.₅ Prediction model • Interactive EDA <br>
 ⊶ Project Repository: [View Project starting with Part 1](https://github.com/dumisanimukuchura/Air-Quality-in-Durban-Part-1-EDA-with-MongoDB)
 
 ### → Tech Layoffs Dataset (MySQL → EDA)
-• Tools: MySQL  
-• Concepts: Data cleaning • Basic to Advanced SQL (CTEs, CASE, JOINS, Subquery, Window functions, pivot) • Trend analysis  
-• Outcome Cleaned database • Layoff trends by industry & region
+• Tools: MySQL  <br>
+• Concepts: Data cleaning • Basic to Advanced SQL (CTEs, CASE, JOINS, Subquery, Window functions, pivot) • Trend analysis  <br>
+• Outcome Cleaned database • Layoff trends by industry & region <br>
 ⊶ Project Repository: [View Project starting with Part 1]( https://github.com/dumisanimukuchura/MySQL-Tech-Layoffs-Dataset-Part-1-Cleaning-by-Dumisani-Mukuchura)
 
 ### → CycleSilicon Inc. Employee Dataset (Excel → Data Cleaning → Dashboard)
-• Tools: Excel 2019, Excel 365
-• Concepts: Data preparation and cleaning • EDA • Pivot Tables • Charts • Dashboard
-• Outcome Cleaned dataset • perfomed EDA • Pivot Table creation • Dashboard creation
+• Tools: Excel 2019, Excel 365 <br>
+• Concepts: Data preparation and cleaning • EDA • Pivot Tables • Charts • Dashboard <br>
+• Outcome Cleaned dataset • perfomed EDA • Pivot Table creation • Dashboard creation <br>
 ⊶ Project Repository: [View Project starting with Part 1](https://github.com/dumisanimukuchura/CycleSilicon-Inc.-Employee-Bike-Purchase-Dataset-Part-1-Data-Cleaning-Preparation-EDA-by-D.Mukuchura)
 
 ✣ more Projects [View Portifolio](https://github.com/dumisanimukuchura?tab=repositories)
