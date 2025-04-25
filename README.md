@@ -3,7 +3,7 @@
 ## Hi there ツ 
 
 <p align="center">
-  <h3><strong>Dumisani Maxwell Mukuchura • Data Analyst → Aspiring Data Scientist</strong></h3>
+  <h3><strong>🟢Dumisani Maxwell Mukuchura • Data Analyst → Aspiring Data Scientist</strong></h3>
   <h4>Driven by curiosity • Unearthing insights • Building predictive models</h4>
 </p>
 
