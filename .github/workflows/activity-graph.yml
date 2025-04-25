@@ -1,8 +1,10 @@
 name: Update contribution graph
 
 on:
+  # 1. Schedule: runs every day at midnight UTC
   schedule:
     - cron: '0 0 * * *'
+  # 2. Manual trigger: you can click “Run workflow” in GitHub UI
   workflow_dispatch:
 
 jobs:
