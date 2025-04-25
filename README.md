@@ -14,6 +14,8 @@
 ⊸ My Articles are available on [byndForm LinkedIn Articles](https://www.linkedin.com/company/byndform/)<br>
 ⊸ Get My Resume [Here]<br>
 
+---------------------------------------------------------------------------------------
+
 ### → Tech Stack & Tools:
 ⊶ **Languages:** Python • SQL • JavaScript(beginner) <br>
 ⊶ **Data Manipulation & PreProcessing:** Pandas • NumPy <br>
@@ -22,6 +24,8 @@
 ⊶ **ML Models:** AutoRegressive • LinearRegression • Ridge <br>
 ⊶ **DB & Cloud** MySQL • MongoDB • PyMongo <br>
 ⊶ **Workflow & Version Control** Git • Jupyter • VS Code <br>
+
+--------------------------------------------------------------------------------------
 
 ### → Reach Out, Let us Connect:
 #### ↠ Personal
@@ -36,6 +40,8 @@
 ⊸ LinkedIn: https://www.linkedin.com/company/byndform/ <br>
 ⊸ X fka Twitter: https://x.com/byndform <br>
 ⊸ Linktree: https://linktr.ee/byndform <br>
+
+--------------------------------------------------------------------------------------
 
 ### → Highlighted Projects:
 #### ↠ Delhi Housing Analysis Series (EDA → Regression Model Build)
@@ -64,11 +70,15 @@
 
 ✣ more Projects [View Portifolio](https://github.com/dumisanimukuchura?tab=repositories)
 
+--------------------------------------------------------------------------------------
+
 ### → Education:
 ⊸ B.Eng (Hons), Telecommunications Engineering — NUST (2016 – 2021) <br>
 ⊸ Udacity/ALX-T Data Analyst Nanodegree (Aug 2022 – Sep 2022) <br>
 ⊸ DataCamp Series: Python Data Analyst • EDA • Hypothesis Testing • ML for Everyone <br>
 ⊸ Microsoft Certified: Azure Data Fundamentals (DP-900) <br>
+
+--------------------------------------------------------------------------------------
 
 ### → Current Focus and Hobbies:
 ⟿ Mastering machine learning & AI for data science  
@@ -76,6 +86,11 @@
 ⟿ Automating insights pipelines.
 ⟿ Watching Data with its usage in F1 strategy and racing craft.
 ⟿ Watching NBA with its usage of Data.
+
+--------------------------------------------------------------------------------------
+### → Let's Collaborate: 
+∷ Open to freelance & full-time roles in Data Analytics / Data Science  <br>
+∷ Reach out via email, phone or LinkedIn — I’m always up for a data challenge and learning opportunity! <br>
 
 
 
