@@ -3,43 +3,46 @@
 ## Hi there ツ 
 
 <p align="center">
-  <h3><strong>🟢Dumisani Maxwell Mukuchura • Data Analyst → Aspiring Data Scientist</strong></h3>
+  <h3><strong>🟢Dumisani Maxwell Mukuchura • Data Analyst + Data Scientist</strong></h3>
   <h4>Driven by curiosity • Unearthing insights • Building predictive models</h4>
 </p>
 
 ### → Have a View:
-⊸ I am currently building Models and Learning Data Science. <br>
-⊸ I am OPEN to collaborating and freelancing for Data Analytics and Data Science. <br>
-⊸ Ask me about: Data Science; Preparation, EDA, Model Building, Visualizations<br>
-⊸ My Articles are available on [byndForm LinkedIn Articles](https://www.linkedin.com/company/byndform/)<br>
-⊸ Get My Resume [Here]<br>
+ 
+→ I am currently building Models and Learning Data Science. <br>
+→ I am OPEN to collaborating and freelancing for Data Analytics and Data Science. <br>
+→ Ask me about: Data Science; Preparation, EDA, Model Building, Visualizations<br>
+→ My Articles are available on [byndForm LinkedIn Articles](https://www.linkedin.com/company/byndform/)<br>
+
+↠ Get My Resume/Curriculum Vitae 📄 [View Now](https://github.com/dumisanimukuchura/dumisanimukuchura/blob/main/Dumisani.M.Mukuchura%20-%20Curriculum.Vitae%20-%20Data%20Science%20%26%20Analytics.pdf?raw=true)
+<br>
 
 ---------------------------------------------------------------------------------------
 
 ### → Tech Stack & Tools:
-⊶ **Languages:** `Python` • `SQL` • `JavaScript` (beginner) <br>
-⊶ **Data Manipulation & PreProcessing:** `Pandas` • `NumPy` • `Excel` • `SQL` <br>
-⊶ **BI & Visualization:** `Matplotlib` • `Seaborn` • `Plotly` • `Excel` • `PowerBi` • `Tableu` <br>
-⊶ **ML:** `Scikit-learn` • `Statsmodels` <br>
-⊶ **ML Models:** `AutoRegressive` • `LinearRegression` • `Ridge` <br>
-⊶ **DB & Cloud** `MySQL` • `MongoDB` • `PyMongo` <br>
-⊶ **Workflow & Version Control** `Git` • `Jupyter` • `VS Code` • `Google Workspace` <br>
+→ **Languages:** `Python` • `SQL` • `JavaScript` (beginner) <br>
+→ **Data Manipulation & PreProcessing:** `Pandas` • `NumPy` • `Excel` • `SQL` <br>
+→ **BI & Visualization:** `Matplotlib` • `Seaborn` • `Plotly` • `Excel` • `PowerBi` • `Tableu` <br>
+→ **ML:** `Scikit-learn` • `Statsmodels` <br>
+→ **ML Models:** `AutoRegressive` • `LinearRegression` • `Ridge` <br>
+→ **DB & Cloud** `MySQL` • `MongoDB` • `PyMongo` <br>
+→ **Workflow & Version Control** `Git` • `Jupyter` • `VS Code` • `Google Workspace` <br>
 
 --------------------------------------------------------------------------------------
 
 ### → Reach Out, Let us Connect:
 #### → Personal
-⊸ Email [dumisanimukuchura@gmail.com](mailto:dumisanimukuchura@gmail.com) <br>
-⊸ Phone: +263 771 758 354 / +263 715 026 554 [Chat on WhatsApp](https://wa.me/263715026554) <br>
-⊸ LinkedIn: https://www.linkedin.com/in/dumisani-maxwell-mukuchura-4859b7170/ <br> 
-⊸ GitHub: https://github.com/dumisanimukuchura <br>
-⊸ Portfolio: https://datascienceportfol.io/dumisanimukuchura <br>
+→ Email [dumisanimukuchura@gmail.com](mailto:dumisanimukuchura@gmail.com) <br>
+→ Phone: +263 771 758 354 / +263 715 026 554 [Chat on WhatsApp](https://wa.me/263715026554) <br>
+→ LinkedIn: https://www.linkedin.com/in/dumisani-maxwell-mukuchura-4859b7170/ <br> 
+→ GitHub: https://github.com/dumisanimukuchura <br>
+→ Portfolio: https://datascienceportfol.io/dumisanimukuchura <br>
 
 #### → Company I represent as, byndForm:
-⊸ Email: [byndform@gmail.com](mailto:byndform@gmail.com) <br>
-⊸ LinkedIn: https://www.linkedin.com/company/byndform/ <br>
-⊸ X fka Twitter: https://x.com/byndform <br>
-⊸ Linktree: https://linktr.ee/byndform <br>
+→ Email: [byndform@gmail.com](mailto:byndform@gmail.com) <br>
+→ LinkedIn: https://www.linkedin.com/company/byndform/ <br>
+→ X fka Twitter: https://x.com/byndform <br>
+→ Linktree: https://linktr.ee/byndform <br>
 
 --------------------------------------------------------------------------------------
 
@@ -65,7 +68,7 @@
 ### → CycleSilicon Inc. Employee Dataset (Excel → Data Cleaning → Dashboard)
 • Tools: `Excel 2019`, `Excel 365` <br>
 • Concepts: Data preparation and cleaning • EDA • Pivot Tables • Charts • Dashboard <br>
-• Outcome Cleaned dataset • perfomed EDA • Pivot Table creation • Dashboard creation <br>
+• Outcome Cleaned dataset • performed EDA • Pivot Table creation • Dashboard creation <br>
 ⊶ Project Repository: [View Project starting with Part 1](https://github.com/dumisanimukuchura/CycleSilicon-Inc.-Employee-Bike-Purchase-Dataset-Part-1-Data-Cleaning-Preparation-EDA-by-D.Mukuchura)
 
 ✣ more Projects [View Portifolio](https://github.com/dumisanimukuchura?tab=repositories)
@@ -73,10 +76,11 @@
 --------------------------------------------------------------------------------------
 
 ### → Education:
-⊸ B.Eng (Hons), Telecommunications Engineering — NUST (2016 – 2021) <br>
-⊸ Udacity/ALX-T Data Analyst Nanodegree (Aug 2022 – Sep 2022) <br>
-⊸ DataCamp Series: Python Data Analyst • EDA • Hypothesis Testing • ML for Everyone <br>
-⊸ Microsoft Certified: Azure Data Fundamentals (DP-900) <br>
+→ Applied Data Science Lab — WorldQuant University (2025) <br>
+→ B.Eng (Hons), Telecommunications Engineering — NUST (2016 – 2021) <br>
+→ Udacity/ALX-T Data Analyst Nanodegree (Aug 2022 – Sep 2022) <br>
+→ DataCamp Series: Python Data Analyst • EDA • Hypothesis Testing • ML for Everyone <br>
+→ Microsoft Certified: Azure Data Fundamentals (DP-900) <br>
 
 --------------------------------------------------------------------------------------
 
