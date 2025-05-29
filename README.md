@@ -14,8 +14,9 @@
 → Ask me about: Data Science; Preparation, EDA, Model Building, Visualizations<br>
 → My Articles are available on [byndForm LinkedIn Articles](https://www.linkedin.com/company/byndform/)<br>
 
-↠ Get My Resume/Curriculum Vitae 📄 [View Now](https://github.com/dumisanimukuchura/dumisanimukuchura/blob/main/Dumisani.M.Mukuchura%20-%20Curriculum.Vitae%20-%20Data%20Science%20%26%20Analytics.pdf?raw=true)
-<br>
+↠ Get My Resume/Curriculum Vitae 📄 <br>
+→ [View Now for International](https://github.com/dumisanimukuchura/dumisanimukuchura/blob/main/Dumisani.M.Mukuchura%20-%20Curriculum.Vitae%20-%20Data%20Science%20%26%20Analytics.pdf?raw=true) <br>
+→ [View Now for Zimbabwe](https://github.com/dumisanimukuchura/dumisanimukuchura/blob/main/Dumisani.M.Mukuchura%20-%20Curriculum.Vitae%20-%20Data%20Science%20%26%20Analytics%20-%20Zimbabwe.pdf?raw=true) <br>
 
 ---------------------------------------------------------------------------------------
 
